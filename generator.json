@@ -1,0 +1,14 @@
+{
+  "document": {
+    "outPath": "src",
+    "source": {
+      "urlRefresh": "http://gii.it-private.ru/e-r-d2/refresh",
+      "urlGenerate": "http://gii.it-private.ru/e-r-d2/generate-module",
+      "params": {
+        "ns": "PrivateIT\\modules\\document",
+        "name": "Document",
+        "docId": "ed6016b6-65dc-4dad-ab2f-0e23f62eac43"
+      }
+    }
+  }
+}
