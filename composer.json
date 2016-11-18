@@ -1,0 +1,20 @@
+{
+  "name": "private-it/yii2-data-module-document",
+  "description": "",
+  "license": "proprietary",
+  "type": "yii2-extension",
+  "autoload": {
+    "psr-4": {
+      "PrivateIT\\modules\\document\\": "src"
+    }
+  },
+  "require": {
+    "yiisoft/yii2": "^2.0"
+  },
+  "extra": {
+    "asset-installer-paths": {
+      "npm-asset-library": "vendor/npm",
+      "bower-asset-library": "vendor/bower"
+    }
+  }
+}

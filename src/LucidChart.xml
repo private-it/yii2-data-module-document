@@ -1,0 +1,2398 @@
+
+
+<document>
+    <documentId>ed6016b6-65dc-4dad-ab2f-0e23f62eac43</documentId>
+    <title>Document</title>
+    <version>3387</version>
+    <blocks>
+        
+        
+            
+
+<block>
+    <id>ETE0l60nPxoN</id>
+    <class>ERDEntityBlock4</class>
+    
+    
+        
+    
+    
+        
+    
+    <textAreas>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type6</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field7</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Key9</key>
+                <value>Key</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Key5</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field5</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type9</key>
+                <value>Type</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key6</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field3</key>
+                <value>&#x41e;&#x431;&#x44a;&#x435;&#x43a;&#x442;</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Key2</key>
+                <value>documentId</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Key4</key>
+                <value>objectType</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type2</key>
+                <value>fk</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field4</key>
+                <value>&#x422;&#x438;&#x43f; &#x43e;&#x431;&#x44a;&#x435;&#x43a;&#x442;&#x430;</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type4</key>
+                <value>integer</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type7</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field2</key>
+                <value>&#x414;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key7</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Key1</key>
+                <value>id</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type5</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key8</key>
+                <value>Key</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type3</key>
+                <value>fk</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Name</key>
+                <value>Ref</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Key10</key>
+                <value>Key</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field9</key>
+                <value>Field</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type1</key>
+                <value>pk</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Field6</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type10</key>
+                <value>Type</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type8</key>
+                <value>Type</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field8</key>
+                <value>Field</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field1</key>
+                <value>#</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field10</key>
+                <value>Field</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key3</key>
+                <value>objectId</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    </textAreas>
+    
+        
+    
+    
+        
+            
+        
+            
+                <field>#</field>
+            
+        
+            
+                <field>&#x414;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;</field>
+            
+        
+            
+                <field>&#x41e;&#x431;&#x44a;&#x435;&#x43a;&#x442;</field>
+            
+        
+    
+    
+    
+    
+</block>
+
+        
+            
+
+<block>
+    <id>RUdSCM-5nrhq</id>
+    <class>ERDEntityBlock4</class>
+    
+    
+        
+    
+    
+        
+    
+    <textAreas>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field4</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type3</key>
+                <value>integer</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key7</key>
+                <value>Key</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key8</key>
+                <value>Key</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Key3</key>
+                <value>status</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field6</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field1</key>
+                <value>#</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type8</key>
+                <value>Type</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key6</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type4</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type2</key>
+                <value>string</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Field2</key>
+                <value>&#x41d;&#x430;&#x437;&#x432;&#x430;&#x43d;&#x438;&#x435;</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type5</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field8</key>
+                <value>Field</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Key2</key>
+                <value>name</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field5</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type6</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Key5</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Name</key>
+                <value>Type</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field7</key>
+                <value>Field</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key1</key>
+                <value>id</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type7</key>
+                <value>Type</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field3</key>
+                <value>&#x421;&#x442;&#x430;&#x442;&#x443;&#x441;</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key4</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type1</key>
+                <value>pk</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    </textAreas>
+    
+        
+    
+    
+        
+            
+        
+            
+                <field>#</field>
+            
+        
+            
+                <field>&#x41d;&#x430;&#x437;&#x432;&#x430;&#x43d;&#x438;&#x435;</field>
+            
+        
+    
+    
+    
+    
+</block>
+
+        
+            
+
+<block>
+    <id>8tdSyWg5kvOo</id>
+    <class>ERDEntityBlock4</class>
+    
+    
+        
+    
+    
+        
+    
+    <textAreas>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field5</key>
+                <value>&#x420;&#x430;&#x437;&#x43c;&#x435;&#x440; &#x444;&#x430;&#x439;&#x43b;&#x430;</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key2</key>
+                <value>ownerId</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field2</key>
+                <value>&#x412;&#x43b;&#x430;&#x434;&#x435;&#x43b;&#x435;&#x446;</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Field9</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key3</key>
+                <value>typeId</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key1</key>
+                <value>id</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type2</key>
+                <value>fk</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key6</key>
+                <value>status</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type4</key>
+                <value>string</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type8</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type1</key>
+                <value>pk</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key12</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field12</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type3</key>
+                <value>fk</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Field6</key>
+                <value>&#x421;&#x442;&#x430;&#x442;&#x443;&#x441;</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Field13</key>
+                <value>Field</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type11</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field1</key>
+                <value>#</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type9</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key7</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field4</key>
+                <value>&#x41d;&#x430;&#x437;&#x432;&#x430;&#x43d;&#x438;&#x435;</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Name</key>
+                <value>Document</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type10</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field11</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key14</key>
+                <value>Key</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Key11</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key8</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type6</key>
+                <value>integer</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type13</key>
+                <value>Type</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type12</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key5</key>
+                <value>size</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key9</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field3</key>
+                <value>&#x422;&#x438;&#x43f; &#x434;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;&#x430;</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Field10</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field14</key>
+                <value>Field</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type7</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key13</key>
+                <value>Key</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field8</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type5</key>
+                <value>integer</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type14</key>
+                <value>Type</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Key4</key>
+                <value>name</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Key10</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Field7</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    </textAreas>
+    
+        
+    
+    
+        
+            
+        
+            
+                <field>#</field>
+            
+        
+            
+                <field>&#x412;&#x43b;&#x430;&#x434;&#x435;&#x43b;&#x435;&#x446;</field>
+            
+        
+            
+                <field>&#x422;&#x438;&#x43f; &#x434;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;&#x430;</field>
+            
+        
+            
+                <field>&#x41d;&#x430;&#x437;&#x432;&#x430;&#x43d;&#x438;&#x435;</field>
+            
+        
+            
+                <field>&#x420;&#x430;&#x437;&#x43c;&#x435;&#x440; &#x444;&#x430;&#x439;&#x43b;&#x430;</field>
+            
+        
+    
+    
+    
+    
+</block>
+
+        
+            
+
+<block>
+    <id>31j1dos.ni.D</id>
+    <class>ERDEntityBlock4</class>
+    
+    
+        
+    
+    
+        
+    
+    <textAreas>
+        
+            <textArea>
+                <key>Type1</key>
+                <value>pk</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Name</key>
+                <value>GroupHasType</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type4</key>
+                <value>Type</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type3</key>
+                <value>fk</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Field1</key>
+                <value>#</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key5</key>
+                <value>Key</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type6</key>
+                <value>Type</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Field2</key>
+                <value>&#x422;&#x438;&#x43f; &#x434;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;&#x430;</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type5</key>
+                <value>Type</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Field4</key>
+                <value>Field</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key3</key>
+                <value>groupId</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Key7</key>
+                <value>Key</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key2</key>
+                <value>typeId</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field5</key>
+                <value>Field</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type7</key>
+                <value>Type</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key6</key>
+                <value>Key</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type2</key>
+                <value>fk</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key4</key>
+                <value>Key</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field3</key>
+                <value>&#x413;&#x440;&#x443;&#x43f;&#x43f;&#x430; &#x434;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;&#x43e;&#x432;</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field7</key>
+                <value>Field</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key1</key>
+                <value>id</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Field6</key>
+                <value>Field</value>
+            </textArea>
+        
+    </textAreas>
+    
+        
+    
+    
+        
+            
+        
+            
+                <field>#</field>
+            
+        
+            
+                <field>&#x422;&#x438;&#x43f; &#x434;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;&#x430;</field>
+            
+        
+    
+    
+    
+    
+</block>
+
+        
+            
+
+<block>
+    <id>xuI0ZTjXrWI1</id>
+    <class>ERDEntityBlock4</class>
+    
+    
+        
+    
+    
+        
+    
+    <textAreas>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key6</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Name</key>
+                <value>Group</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key1</key>
+                <value>id</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type7</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type1</key>
+                <value>pk</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Field9</key>
+                <value>Field</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type3</key>
+                <value>string</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key5</key>
+                <value>status</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type4</key>
+                <value>string</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field7</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key3</key>
+                <value>name</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field1</key>
+                <value>#</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Field10</key>
+                <value>Field</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key7</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key10</key>
+                <value>Key</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field2</key>
+                <value>&#x413;&#x440;&#x443;&#x43f;&#x43f;&#x430; &#x434;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;&#x43e;&#x432;</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type5</key>
+                <value>integer</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field5</key>
+                <value>&#x421;&#x442;&#x430;&#x442;&#x443;&#x441;</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type6</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key4</key>
+                <value>description</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type10</key>
+                <value>Type</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field8</key>
+                <value>Field</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type9</key>
+                <value>Type</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key9</key>
+                <value>Key</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type2</key>
+                <value>string</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type8</key>
+                <value>Type</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Key8</key>
+                <value>Key</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Field6</key>
+                <value></value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key2</key>
+                <value>typeId</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field3</key>
+                <value>&#x41d;&#x430;&#x437;&#x432;&#x430;&#x43d;&#x438;&#x435;</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field4</key>
+                <value>&#x41e;&#x43f;&#x438;&#x441;&#x430;&#x43d;&#x438;&#x435;</value>
+            </textArea>
+        
+    
+        
+    </textAreas>
+    
+        
+    
+    
+        
+            
+        
+            
+                <field>#</field>
+            
+        
+            
+                <field>&#x413;&#x440;&#x443;&#x43f;&#x43f;&#x430; &#x434;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;&#x43e;&#x432;</field>
+            
+        
+            
+                <field>&#x41d;&#x430;&#x437;&#x432;&#x430;&#x43d;&#x438;&#x435;</field>
+            
+        
+            
+                <field>&#x41e;&#x43f;&#x438;&#x441;&#x430;&#x43d;&#x438;&#x435;</field>
+            
+        
+    
+    
+    
+    
+</block>
+
+        
+            
+
+<block>
+    <id>o-jE72r5OLsK</id>
+    <class>ERDEntityBlock4</class>
+    
+    
+        
+    
+    
+        
+    
+    <textAreas>
+        
+    
+        
+            <textArea>
+                <key>Key2</key>
+                <value>documentId</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key4</key>
+                <value>signatory</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key6</key>
+                <value>createdAt</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Field8</key>
+                <value>Field</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Field6</key>
+                <value>&#x414;&#x430;&#x442;&#x430; &#x441;&#x43e;&#x437;&#x434;&#x430;&#x43d;&#x438;&#x44f;</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Field1</key>
+                <value>#</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Field4</key>
+                <value>&#x41f;&#x43e;&#x434;&#x43f;&#x438;&#x441;&#x44c;</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key5</key>
+                <value>updatedAt</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field2</key>
+                <value>&#x414;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type4</key>
+                <value>text</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type1</key>
+                <value>pk</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key1</key>
+                <value>id</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type5</key>
+                <value>timestamp</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Key8</key>
+                <value>Key</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type7</key>
+                <value>Type</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Name</key>
+                <value>Signatory</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Field3</key>
+                <value>&#x41f;&#x43e;&#x43b;&#x44c;&#x437;&#x43e;&#x432;&#x430;&#x442;&#x435;&#x43b;&#x44c;</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field7</key>
+                <value>Field</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key7</key>
+                <value>Key</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Field5</key>
+                <value>&#x414;&#x430;&#x442;&#x430; &#x43e;&#x431;&#x43d;&#x43e;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x44f;</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Key3</key>
+                <value>userId</value>
+            </textArea>
+        
+    
+        
+            <textArea>
+                <key>Type6</key>
+                <value>timestamp</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type3</key>
+                <value>integer</value>
+            </textArea>
+        
+    
+        
+    
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type2</key>
+                <value>fk</value>
+            </textArea>
+        
+    
+        
+    
+        
+            <textArea>
+                <key>Type8</key>
+                <value>Type</value>
+            </textArea>
+        
+    
+        
+    </textAreas>
+    
+        
+    
+    
+        
+            
+        
+            
+                <field>#</field>
+            
+        
+            
+                <field>&#x414;&#x43e;&#x43a;&#x443;&#x43c;&#x435;&#x43d;&#x442;</field>
+            
+        
+            
+                <field>&#x41f;&#x43e;&#x43b;&#x44c;&#x437;&#x43e;&#x432;&#x430;&#x442;&#x435;&#x43b;&#x44c;</field>
+            
+        
+            
+                <field>&#x41f;&#x43e;&#x434;&#x43f;&#x438;&#x441;&#x44c;</field>
+            
+        
+            
+                <field>&#x414;&#x430;&#x442;&#x430; &#x43e;&#x431;&#x43d;&#x43e;&#x432;&#x43b;&#x435;&#x43d;&#x438;&#x44f;</field>
+            
+        
+    
+    
+    
+    
+</block>
+
+        
+    </blocks>
+    <lines>
+        
+        
+            
+
+<line>
+    <id>P3j1ciNSs3L9</id>
+    <endpoint1>
+        <style>CFN ERD One Arrow</style>
+        
+            <block>xuI0ZTjXrWI1</block>
+        
+        
+    </endpoint1>
+    <endpoint2>
+        <style>CFN ERD Many Arrow</style>
+        
+            <block>31j1dos.ni.D</block>
+        
+        
+    </endpoint2>
+    
+        
+            
+        
+    
+        
+             <text>id:groupId</text> 
+        
+    
+</line>
+
+        
+            
+
+<line>
+    <id>D3j1cyvXzzBv</id>
+    <endpoint1>
+        <style>CFN ERD One Arrow</style>
+        
+            <block>RUdSCM-5nrhq</block>
+        
+        
+    </endpoint1>
+    <endpoint2>
+        <style>CFN ERD Many Arrow</style>
+        
+            <block>31j1dos.ni.D</block>
+        
+        
+    </endpoint2>
+    
+        
+            
+        
+    
+        
+             <text>id:typeId</text> 
+        
+    
+</line>
+
+        
+            
+
+<line>
+    <id>CWE0GwBd8koh</id>
+    <endpoint1>
+        <style>CFN ERD One Arrow</style>
+        
+            <block>8tdSyWg5kvOo</block>
+        
+        
+    </endpoint1>
+    <endpoint2>
+        <style>CFN ERD Many Arrow</style>
+        
+            <block>ETE0l60nPxoN</block>
+        
+        
+    </endpoint2>
+    
+        
+            
+        
+    
+        
+             <text>id:documentId</text> 
+        
+    
+</line>
+
+        
+            
+
+<line>
+    <id>W_jEkD9R21UP</id>
+    <endpoint1>
+        <style>CFN ERD One Arrow</style>
+        
+            <block>8tdSyWg5kvOo</block>
+        
+        
+    </endpoint1>
+    <endpoint2>
+        <style>CFN ERD Many Arrow</style>
+        
+            <block>o-jE72r5OLsK</block>
+        
+        
+    </endpoint2>
+    
+        
+            
+        
+    
+        
+             <text>id:documentId</text> 
+        
+    
+</line>
+
+        
+            
+
+<line>
+    <id>dYdSCi80P3WD</id>
+    <endpoint1>
+        <style>CFN ERD One Arrow</style>
+        
+            <block>RUdSCM-5nrhq</block>
+        
+        
+    </endpoint1>
+    <endpoint2>
+        <style>CFN ERD Many Arrow</style>
+        
+            <block>8tdSyWg5kvOo</block>
+        
+        
+    </endpoint2>
+    
+        
+            
+        
+    
+        
+             <text>id:typeId</text> 
+        
+    
+</line>
+
+        
+    </lines>
+</document>
